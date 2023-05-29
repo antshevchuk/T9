@@ -2009,11 +2009,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\white_c0d3r\\Development\\T9\\T9.csproj",
+      "projectUniqueName": "C:\\Users\\white_c0d3r\\Development\\T9\\T9\\T9.csproj",
       "projectName": "T9",
-      "projectPath": "C:\\Users\\white_c0d3r\\Development\\T9\\T9.csproj",
+      "projectPath": "C:\\Users\\white_c0d3r\\Development\\T9\\T9\\T9.csproj",
       "packagesPath": "C:\\Users\\white_c0d3r\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\white_c0d3r\\Development\\T9\\obj\\",
+      "outputPath": "C:\\Users\\white_c0d3r\\Development\\T9\\T9\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2068,7 +2068,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

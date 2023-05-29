@@ -1,4 +1,7 @@
-﻿using Microsoft.Data.SqlClient;
+﻿// This is an independent project of an individual developer. Dear PVS-Studio, please check it.
+
+// PVS-Studio Static Code Analyzer for C, C++, C#, and Java: https://pvs-studio.com
+using Microsoft.Data.SqlClient;
 using System.Linq;
 using System;
 using System.Threading.Tasks;
@@ -435,10 +438,10 @@ class Processor
         switch (cki.Key)
         {
             case ConsoleKey.Escape:
-                {
+                /*{
                     mode = Nodes.Exit;
                     break;
-                }
+                }*/
             case ConsoleKey.Enter:
                 {
                     mode = Nodes.Exit;
